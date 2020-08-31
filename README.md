@@ -24,6 +24,8 @@ pip install PyOpenGL
 # Updates
 
 I will probably add a level editor or something soon. 
+
+# Credits
+
 Thank you to [3DSage](https://www.youtube.com/user/artsage1) for the awesome tutorial.
 Check it out [here](https://youtu.be/gYRrGTC7GtA) and you should definitely subscribe if you followed the tutorial.
-
