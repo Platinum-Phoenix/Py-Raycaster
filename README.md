@@ -1,4 +1,4 @@
-# Installtion
+# Instalation
 Just download the source-code and run Main.py
 
 # Dependencies
